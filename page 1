@@ -1,1 +1,6 @@
 print("Hello")
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+
+print(1 - stats.binom.cdf(21,30,0.5))
